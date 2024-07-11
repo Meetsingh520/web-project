@@ -8,7 +8,7 @@ o	CSS3: Style the homepage for visual appeal.
 o	JavaScript/React.js: Add interactivity and dynamic content updates.
 •  Menu Page:
 •	Functionality:
-o	Showcase the restaurant’s menu with detailed descriptions, prices, and high-quality images of each dish.
+o	Showcase the restaurant’s menu with detailed descriptions, prices.
 o	Allow users to filter and search for specific menu items.
 •	Implementation:
 o	HTML5: Structure the menu content.
